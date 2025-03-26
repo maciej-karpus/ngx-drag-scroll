@@ -1,11 +1,15 @@
 {
-  "name": "ngx-drag-scroll",
-  "version": "18.0.0",
-  "description": "Lightweight drag to scroll library for Angular",
+  "name": "ngx-drag-scroll-mkg",
+  "version": "19.0.0",
+  "description": "Fork of lightweight drag to scroll library for Angular",
   "contributors": [
     {
       "name": "Fan Jin",
       "email": "fanjin1989@gmail.com"
+    },
+    {
+      "name": "Maciej Karpus",
+      "email": "mankersss+npm@gmail.com"
     }
   ],
   "repository": {
@@ -25,7 +29,7 @@
   },
   "homepage": "https://github.com/bfwg/ngx-drag-scroll#readme",
   "peerDependencies": {
-    "@angular/common": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
-    "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
+    "@angular/common": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   }
 }
