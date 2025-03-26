@@ -12,7 +12,8 @@ import { DOCUMENT } from '@angular/common';
 
 @Component({
   selector: 'app-test-component',
-  template: ''
+  template: '',
+  standalone: false
 })
 class TestComponent {
   @ViewChild('nav', { read: DragScrollComponent }) ds: DragScrollComponent;
