@@ -7,7 +7,8 @@ import { MatIconRegistry } from '@angular/material/icon';
   selector: 'app-home',
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css'],
-  viewProviders: [MatIconRegistry]
+  viewProviders: [MatIconRegistry],
+  standalone: false
 })
 export class HomeComponent {
   title = 'app works!';
